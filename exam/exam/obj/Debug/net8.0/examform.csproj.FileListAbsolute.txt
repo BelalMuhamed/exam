@@ -1,0 +1,14 @@
+D:\back end route\ahmedamin\oop\exam\exam\exam\bin\Debug\net8.0\examform.exe
+D:\back end route\ahmedamin\oop\exam\exam\exam\bin\Debug\net8.0\examform.deps.json
+D:\back end route\ahmedamin\oop\exam\exam\exam\bin\Debug\net8.0\examform.runtimeconfig.json
+D:\back end route\ahmedamin\oop\exam\exam\exam\bin\Debug\net8.0\examform.dll
+D:\back end route\ahmedamin\oop\exam\exam\exam\bin\Debug\net8.0\examform.pdb
+D:\back end route\ahmedamin\oop\exam\exam\exam\obj\Debug\net8.0\examform.GeneratedMSBuildEditorConfig.editorconfig
+D:\back end route\ahmedamin\oop\exam\exam\exam\obj\Debug\net8.0\examform.AssemblyInfoInputs.cache
+D:\back end route\ahmedamin\oop\exam\exam\exam\obj\Debug\net8.0\examform.AssemblyInfo.cs
+D:\back end route\ahmedamin\oop\exam\exam\exam\obj\Debug\net8.0\examform.csproj.CoreCompileInputs.cache
+D:\back end route\ahmedamin\oop\exam\exam\exam\obj\Debug\net8.0\examform.dll
+D:\back end route\ahmedamin\oop\exam\exam\exam\obj\Debug\net8.0\refint\examform.dll
+D:\back end route\ahmedamin\oop\exam\exam\exam\obj\Debug\net8.0\examform.pdb
+D:\back end route\ahmedamin\oop\exam\exam\exam\obj\Debug\net8.0\examform.genruntimeconfig.cache
+D:\back end route\ahmedamin\oop\exam\exam\exam\obj\Debug\net8.0\ref\examform.dll
